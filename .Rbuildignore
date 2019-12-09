@@ -5,3 +5,6 @@
 ^big_file_path$
 ^README.Rmd$
 ^README.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
