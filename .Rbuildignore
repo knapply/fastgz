@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^man-roxygen$
+^\.vscode$
+^big_file_path$
+^README.Rmd$
+^README.md$
